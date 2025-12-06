@@ -12,7 +12,7 @@ I want to transform agriculture in Bangladesh through smart automation. Nearly h
 
 **Computer Vision** — OpenCV, TensorFlow, PyTorch, Classification, Object Detection and Tracking, Segmentation
 **Embedded AI** — Edge deployment, Jetson, TFLite, quantization
-**Robotics** — ROS, SLAM, sensor fusion, path planning     
+**Robotics** — ROS, SLAM, sensor fusion, path planning 
 **Languages** — Python, C++, MATLAB
 
 ## Some Things I've Built
