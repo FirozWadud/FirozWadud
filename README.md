@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @FirozWadud
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Firoz 👋
 
-<!---
-FirozWadud/FirozWadud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build robots and vision systems that solve real problems—not just cool demos.
+
+Currently doing my M.Sc. in Autonomous Systems (EIT Digital), and continuing research at BRAC University's space systems lab.
+
+## What Drives Me
+
+I want to transform agriculture in Bangladesh through smart automation. Nearly half our country works in farming—there's so much potential to improve livelihoods with the right tech.
+
+## What I Work With
+
+**Robotics** — ROS, SLAM, sensor fusion, path planning  
+**Computer Vision** — OpenCV, TensorFlow, PyTorch, Classification, Object Detection and Tracking, Segmentation  
+**Embedded AI** — Edge deployment, Jetson, TFLite, quantization  
+**Languages** — Python, C++, MATLAB
+
+## Some Things I've Built
+
+- Greenhouse robot with 6DOF arm for automated harvesting
+- CubeSat image classifier running on Edge TPU
+- IoT fire detection system for Dhaka's densely populated areas
+- Thrust vector control for amateur rockets
+
+## Background
+
+Led teams at University Rover Challenge (4th place), European Robotics League, and other international competitions. Published at IEEE conferences. Currently mentoring the next generation of robotics students.
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/firozwadud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdfirozwadud@gmail.com)
